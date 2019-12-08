@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
-import './homepage.styles.scss'
 
-import Homepage from './homepage.component'
+import './App.css'
+
+import Homepage from './pages/homepage/homepage.component'
 
 function App() {
   return (
